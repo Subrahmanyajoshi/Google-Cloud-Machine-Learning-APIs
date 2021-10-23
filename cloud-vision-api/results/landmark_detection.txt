@@ -1,0 +1,25 @@
+landmark_annotations {
+  mid: "/m/07qdr"
+  description: "Times Square"
+  score: 0.8930519819259644
+  bounding_poly {
+    vertices {
+    }
+    vertices {
+      x: 561
+    }
+    vertices {
+      x: 561
+      y: 369
+    }
+    vertices {
+      y: 369
+    }
+  }
+  locations {
+    lat_lng {
+      latitude: 40.757498
+      longitude: -73.985736
+    }
+  }
+}
