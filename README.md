@@ -1,6 +1,6 @@
 # Google Cloud Machine Learning APIs
 - This repository shows how to use Google Cloud's wide range of machine learning APIs programmatically using python.
-- Google Cloud's ML APIs help us solve common machine learning problems with just a single query.
+- Google Cloud's ML APIs help us solve common machine learning problems with just a single call to their endpoints.
 - Developers/Enterprises don't have to spend time creating models, training models or creating deployment
 infrastructures. 
 - Instead, they can just simply call the API's endpoint using CURL or using python after installing required modules 
