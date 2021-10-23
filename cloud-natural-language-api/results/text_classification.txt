@@ -1,0 +1,4 @@
+categories {
+  name: "/Food & Drink/Food"
+  confidence: 0.9800000190734863
+}

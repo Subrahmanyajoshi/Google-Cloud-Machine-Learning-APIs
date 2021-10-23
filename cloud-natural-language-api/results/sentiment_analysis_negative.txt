@@ -1,0 +1,25 @@
+document_sentiment {
+  magnitude: 1.5
+  score: -0.699999988079071
+}
+language: "en"
+sentences {
+  text {
+    content: "One of the worst movies ever!!."
+    begin_offset: -1
+  }
+  sentiment {
+    magnitude: 0.800000011920929
+    score: -0.800000011920929
+  }
+}
+sentences {
+  text {
+    content: "Please don\'t waste your time watching it.."
+    begin_offset: -1
+  }
+  sentiment {
+    magnitude: 0.699999988079071
+    score: -0.699999988079071
+  }
+}

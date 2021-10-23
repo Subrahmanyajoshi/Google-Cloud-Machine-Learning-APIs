@@ -1,0 +1,25 @@
+document_sentiment {
+  magnitude: 1.899999976158142
+  score: 0.8999999761581421
+}
+language: "en"
+sentences {
+  text {
+    content: "This movie is so good."
+    begin_offset: -1
+  }
+  sentiment {
+    magnitude: 0.8999999761581421
+    score: 0.8999999761581421
+  }
+}
+sentences {
+  text {
+    content: "Loved every second of it !!"
+    begin_offset: -1
+  }
+  sentiment {
+    magnitude: 0.8999999761581421
+    score: 0.8999999761581421
+  }
+}

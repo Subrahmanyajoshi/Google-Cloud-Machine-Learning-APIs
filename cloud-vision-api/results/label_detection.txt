@@ -1,0 +1,60 @@
+label_annotations {
+  mid: "/m/0bt9lr"
+  description: "Dog"
+  score: 0.9537229537963867
+  topicality: 0.9537229537963867
+}
+label_annotations {
+  mid: "/m/0kpmf"
+  description: "Dog breed"
+  score: 0.916549801826477
+  topicality: 0.916549801826477
+}
+label_annotations {
+  mid: "/m/01lrl"
+  description: "Carnivore"
+  score: 0.8981429934501648
+  topicality: 0.8981429934501648
+}
+label_annotations {
+  mid: "/m/02klfh"
+  description: "Disc dog"
+  score: 0.8752760887145996
+  topicality: 0.8752760887145996
+}
+label_annotations {
+  mid: "/m/02wmf"
+  description: "Flying disc"
+  score: 0.8572475910186768
+  topicality: 0.8572475910186768
+}
+label_annotations {
+  mid: "/m/0df_n8"
+  description: "Frisbee games"
+  score: 0.8473882079124451
+  topicality: 0.8473882079124451
+}
+label_annotations {
+  mid: "/m/0276krm"
+  description: "Fawn"
+  score: 0.8161194324493408
+  topicality: 0.8161194324493408
+}
+label_annotations {
+  mid: "/m/03yl64"
+  description: "Companion dog"
+  score: 0.8147051930427551
+  topicality: 0.8147051930427551
+}
+label_annotations {
+  mid: "/m/06z_nw"
+  description: "Tail"
+  score: 0.7616311311721802
+  topicality: 0.7616311311721802
+}
+label_annotations {
+  mid: "/m/05mqq3"
+  description: "Snout"
+  score: 0.7511301040649414
+  topicality: 0.7511301040649414
+}

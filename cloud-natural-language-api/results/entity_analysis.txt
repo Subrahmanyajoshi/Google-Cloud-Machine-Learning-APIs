@@ -1,0 +1,45 @@
+entities {
+  name: "Google Cloud"
+  type_: OTHER
+  metadata {
+    key: "mid"
+    value: "/m/0105pbj4"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Google_Cloud_Platform"
+  }
+  salience: 0.623616099357605
+  mentions {
+    text {
+      content: "Google Cloud"
+      begin_offset: -1
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "range"
+  type_: OTHER
+  salience: 0.28244197368621826
+  mentions {
+    text {
+      content: "range"
+      begin_offset: -1
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "APIs"
+  type_: OTHER
+  salience: 0.09394192695617676
+  mentions {
+    text {
+      content: "APIs"
+      begin_offset: -1
+    }
+    type_: COMMON
+  }
+}
+language: "en"
