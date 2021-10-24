@@ -1,0 +1,245 @@
+web_detection {
+  web_entities {
+    entity_id: "/m/04fzvx"
+    score: 0.8646659851074219
+    description: "Cane Corso"
+  }
+  web_entities {
+    entity_id: "/m/0km5c"
+    score: 0.8483310341835022
+    description: "German Shepherd"
+  }
+  web_entities {
+    entity_id: "/m/0d7s3w"
+    score: 0.7791000008583069
+    description: "Puppy"
+  }
+  web_entities {
+    entity_id: "/m/0kpmf"
+    score: 0.7106000185012817
+    description: "Dog breed"
+  }
+  web_entities {
+    entity_id: "/m/02klfh"
+    score: 0.7099000215530396
+    description: "Disc dog"
+  }
+  web_entities {
+    entity_id: "/m/02wmf"
+    score: 0.6155999898910522
+    description: "Flying Disc"
+  }
+  web_entities {
+    entity_id: "/m/01nlxs"
+    score: 0.5557000041007996
+    description: "Breed"
+  }
+  web_entities {
+    entity_id: "/m/02gxp7"
+    score: 0.4952999949455261
+    description: "Working dog"
+  }
+  web_entities {
+    entity_id: "/g/123b93fn"
+    score: 0.43369999527931213
+    description: "service dog"
+  }
+  web_entities {
+    entity_id: "/m/05wkw"
+    score: 0.4246000051498413
+    description: "Photography"
+  }
+  full_matching_images {
+    url: "https://n.sinaimg.cn/sinakd20108/399/w1200h799/20200819/78ba-ixvrvsp8412403.jpg"
+  }
+  full_matching_images {
+    url: "https://krasivosti.pro/uploads/posts/2021-07/1625866524_16-krasivosti-pro-p-sobaka-v-polyote-sobaki-krasivo-foto-18.jpg"
+  }
+  full_matching_images {
+    url: "https://cameralabs.org/media/lab19/10/29-2/fotograf-klaudio-pikkoli-6.jpg"
+  }
+  full_matching_images {
+    url: "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=146502367480258"
+  }
+  full_matching_images {
+    url: "https://i.pinimg.com/originals/b1/fb/34/b1fb34fde9e0da61310f1a73d4e1de71.jpg"
+  }
+  full_matching_images {
+    url: "https://drscdn.500px.org/photo/1010333939/q%3D80_h%3D600_of%3D1/v2?sig=e44b89d9a1d0685b420109994fe1ff677b230b366a5c46a5abd479360348cb21"
+  }
+  full_matching_images {
+    url: "https://1.bp.blogspot.com/-nGeUlFfslaU/XdVncGu_5RI/AAAAAAAAa08/BQUf30LmIWAjIbpjsQjwlUPlzCdjtC0agCLcBGAsYHQ/s1600/Wonderful%2BPictures%2Bof%2BSuper%2BFlying%2BDogs%2Bby%2BClaudio%2BPiccoli%2B%25288%2529.jpg"
+  }
+  full_matching_images {
+    url: "http://static.jstv.com/img/2019/10/29/201910291572328768448_75_b.jpg"
+  }
+  full_matching_images {
+    url: "https://rs-channel.huanqiucdn.cn/imageDir/dad704462a18981e6f1d266c428fc9fbu5.jpg"
+  }
+  full_matching_images {
+    url: "https://millionstatusov.ru/pic/statpic/all8/5e20bda8e78a6.jpg"
+  }
+  partial_matching_images {
+    url: "https://www.kikapress.com/wp-content/plugins/kikaplugin2/loadimageid.php?type=pod&id=5957411"
+  }
+  partial_matching_images {
+    url: "http://p3.pstatp.com/origin/pgc-image/46c480aaac0e40078c2b586b354bf719"
+  }
+  partial_matching_images {
+    url: "http://static.jstv.com/img/2019/10/29/201910291572328767450_75_b.jpg"
+  }
+  partial_matching_images {
+    url: "https://static2.55online.news/thumbnail/zhkNmZhOTM3M/vLgO7HQ152ncAYC4vUQ0VWVNX1LVNCrq1u8Hb3mD5ugCp1MIRB6dgEGTHdeDLuy2Nzr5tvFmhlvm00fmC_XgTQcGdbRSLcl2Jsc2X7R9ly47nya75GnlG391FqC0BiyG/zhkNmZhOTM3M.jpg"
+  }
+  partial_matching_images {
+    url: "http://ocdn.eu/images/pulscms/OWY7MDA_/55b440ca49f66cfea70203e352cb71ae.jpg"
+  }
+  partial_matching_images {
+    url: "https://img.wprost.pl/_thumb/7f/bc/9e9f54b3f1b21c4b3c7xx2638f9f.jpeg"
+  }
+  partial_matching_images {
+    url: "https://image.mn52.com/img/allimg/190920/8-1Z920112924.jpg"
+  }
+  partial_matching_images {
+    url: "http://5b0988e595225.cdn.sohucs.com/images/20191028/9e88a0894a1d419d8014ea5446736c2f.jpeg"
+  }
+  partial_matching_images {
+    url: "https://i1.kknews.cc/SIG=2aetbrt/ctp-vzntr/7r6pq32op89247ps916s1422n0037214.jpg"
+  }
+  partial_matching_images {
+    url: "https://static.wixstatic.com/media/40ce9a_0200a36bab4940ec88f7657937cfdd06~mv2.jpg/v1/fill/w_250,h_166,al_c,q_90/40ce9a_0200a36bab4940ec88f7657937cfdd06~mv2.jpg"
+  }
+  pages_with_matching_images {
+    url: "https://www.claudiopiccoli.com/dogphotography"
+    page_title: "<b>DOG</b> PHOTOGRAPHY | DOGS IN ACTION | Claudio Piccoli | Italy"
+    full_matching_images {
+      url: "https://static.wixstatic.com/media/40ce9a_08fb5b490eb74a78a600a504fe93cf92~mv2.jpg/v1/fill/w_250,h_166,al_c,q_90/40ce9a_08fb5b490eb74a78a600a504fe93cf92~mv2.jpg"
+    }
+    full_matching_images {
+      url: "https://static.wixstatic.com/media/40ce9a_0200a36bab4940ec88f7657937cfdd06~mv2.jpg/v1/fill/w_250,h_166,al_c,q_90/40ce9a_0200a36bab4940ec88f7657937cfdd06~mv2.jpg"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.theguardian.com/lifeandstyle/gallery/2019/oct/28/new-tricks-dogs-catch-flying-discs-in-pictures"
+    page_title: "New tricks: dogs catch flying discs \342\200\223 in pictures - The Guardian"
+    full_matching_images {
+      url: "https://i.guim.co.uk/img/media/339bbeb00e74a94fce675db75db6b22945a1dc13/0_0_3525_2349/master/3525.jpg?width=700&quality=85&auto=format&fit=max&s=8c3a8add56e61c2b55a5d75023a88329"
+    }
+    full_matching_images {
+      url: "https://i.guim.co.uk/img/media/339bbeb00e74a94fce675db75db6b22945a1dc13/0_0_3525_2349/master/3525.jpg?width=300&quality=85&auto=format&fit=max&s=6454ef56ccfb99ceb7abf54807828798"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.pinterest.com/Jianhua_Zhang/claudio-piccoli-2020615/"
+    page_title: "59 Claudio Piccoli 2020/6/15 ideas | dogs, animals, <b>dog</b> photography"
+    full_matching_images {
+      url: "https://i.pinimg.com/474x/b8/69/84/b869849340277f5cf5b7989616562eef.jpg"
+    }
+    full_matching_images {
+      url: "https://i.pinimg.com/170x/b8/69/84/b869849340277f5cf5b7989616562eef.jpg"
+    }
+    full_matching_images {
+      url: "https://i.pinimg.com/236x/b8/69/84/b869849340277f5cf5b7989616562eef.jpg"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.pinterest.co.uk/pin/170925748347827851/"
+    page_title: "New tricks: dogs catch flying discs \342\200\223 in pictures - Pinterest"
+    full_matching_images {
+      url: "https://i.pinimg.com/originals/b1/fb/34/b1fb34fde9e0da61310f1a73d4e1de71.jpg"
+    }
+    full_matching_images {
+      url: "https://i.pinimg.com/736x/b1/fb/34/b1fb34fde9e0da61310f1a73d4e1de71.jpg"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.pinterest.com/lettersthatwow/animals-playing-sports/"
+    page_title: "30 Animals Playing Sports ideas in 2021 | animals, dogs, pets"
+    full_matching_images {
+      url: "https://i.pinimg.com/originals/b1/fb/34/b1fb34fde9e0da61310f1a73d4e1de71.jpg"
+    }
+    full_matching_images {
+      url: "https://i.pinimg.com/236x/b1/fb/34/b1fb34fde9e0da61310f1a73d4e1de71.jpg"
+    }
+    full_matching_images {
+      url: "https://i.pinimg.com/474x/b1/fb/34/b1fb34fde9e0da61310f1a73d4e1de71.jpg"
+    }
+    full_matching_images {
+      url: "https://i.pinimg.com/736x/b1/fb/34/b1fb34fde9e0da61310f1a73d4e1de71.jpg"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.theguardian.com/lifeandstyle/gallery/2019/oct/28/new-tricks-dogs-catch-flying-discs-in-pictures?page=with%3Aimg-10"
+    page_title: "New tricks: dogs catch flying discs \342\200\223 in pictures | Life and style"
+    full_matching_images {
+      url: "https://i.guim.co.uk/img/media/339bbeb00e74a94fce675db75db6b22945a1dc13/0_0_3525_2349/master/3525.jpg?width=700&quality=85&auto=format&fit=max&s=8c3a8add56e61c2b55a5d75023a88329"
+    }
+    full_matching_images {
+      url: "https://i.guim.co.uk/img/media/339bbeb00e74a94fce675db75db6b22945a1dc13/0_0_3525_2349/master/3525.jpg?width=300&quality=85&auto=format&fit=max&s=6454ef56ccfb99ceb7abf54807828798"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.theguardian.com/lifeandstyle/gallery/2019/oct/28/new-tricks-dogs-catch-flying-discs-in-pictures?page=with:img-3"
+    page_title: "New tricks: dogs catch flying discs \342\200\223 in pictures | Life and style"
+    full_matching_images {
+      url: "https://i.guim.co.uk/img/media/339bbeb00e74a94fce675db75db6b22945a1dc13/0_0_3525_2349/master/3525.jpg?width=700&quality=85&auto=format&fit=max&s=8c3a8add56e61c2b55a5d75023a88329"
+    }
+    full_matching_images {
+      url: "https://i.guim.co.uk/img/media/339bbeb00e74a94fce675db75db6b22945a1dc13/0_0_3525_2349/master/3525.jpg?width=300&quality=85&auto=format&fit=max&s=6454ef56ccfb99ceb7abf54807828798"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.theguardian.com/lifeandstyle/gallery/2019/oct/28/new-tricks-dogs-catch-flying-discs-in-pictures?page=with:img-10"
+    page_title: "New tricks: dogs catch flying discs \342\200\223 in pictures | Life and style"
+    full_matching_images {
+      url: "https://i.guim.co.uk/img/media/339bbeb00e74a94fce675db75db6b22945a1dc13/0_0_3525_2349/master/3525.jpg?width=700&quality=85&auto=format&fit=max&s=8c3a8add56e61c2b55a5d75023a88329"
+    }
+    full_matching_images {
+      url: "https://i.guim.co.uk/img/media/339bbeb00e74a94fce675db75db6b22945a1dc13/0_0_3525_2349/master/3525.jpg?width=300&quality=85&auto=format&fit=max&s=6454ef56ccfb99ceb7abf54807828798"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.viewbug.com/member/claudiopiccoli"
+    page_title: "ClaudioPiccoli&#39;s Photos - ViewBug.com"
+    full_matching_images {
+      url: "https://cdnpt01.viewbug.com/media/mediafiles/2020/02/11/88090200_widepreview400.jpg"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://wholesomeness.com/dogs-in-action/"
+    page_title: "Photographer Takes Pictures Of &#39;Dogs in Action&#39; &amp; The Result Are ..."
+    partial_matching_images {
+      url: "https://wholesomeness.com/wp-content/uploads/2020/08/german-with-black-frisbee.jpg"
+    }
+  }
+  visually_similar_images {
+    url: "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03144613/Greyhound-standing-stacked-outdoors.20200426001712574.jpg"
+  }
+  visually_similar_images {
+    url: "https://www.nps.gov/deto/learn/nature/images/Prairie-Dog-Jump-Yip.jpg?maxwidth=650&autorotate=false"
+  }
+  visually_similar_images {
+    url: "https://th-thumbnailer.cdn-si-edu.com/be8Bfpn0fDoerQALUuQ-ZluoIt8=/1000x750/filters:no_upscale():focal(512x385:513x386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/85/78/8578258b-78dc-449c-ad11-991e20f92a3b/wolfdog.jpg"
+  }
+  visually_similar_images {
+    url: "https://www.unley.sa.gov.au/files/assets/public/pets/dog-1.jpg?w=1200"
+  }
+  visually_similar_images {
+    url: "https://i.natgeofe.com/n/ee901291-92ac-4287-b19a-8edd089f874c/3265554.jpg?w=636&h=424"
+  }
+  visually_similar_images {
+    url: "https://i.natgeofe.com/n/5ce4d5e3-4fca-4f58-bd2d-1715fea04370/5754034_16x9.jpg"
+  }
+  visually_similar_images {
+    url: "https://dt2n0xjvnpvnu.cloudfront.net/assets/product_images/img-why-dog-itching-header-m.jpg"
+  }
+  visually_similar_images {
+    url: "https://media.npr.org/assets/img/2011/01/07/istock_000013776369large_vert-3371d73492ffa1923deaac577b6e818fc6c89ae1-s1100-c50.jpg"
+  }
+  visually_similar_images {
+    url: "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29150139/Labrador-Retriever-swimming-with-a-decoy.jpg"
+  }
+  best_guess_labels {
+    label: "Dog"
+  }
+}
