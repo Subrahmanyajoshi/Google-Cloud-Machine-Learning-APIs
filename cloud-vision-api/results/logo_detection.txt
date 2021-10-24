@@ -1,0 +1,184 @@
+logo_annotations {
+  mid: "/m/0g5vy"
+  description: "Royal Dutch Shell"
+  score: 0.9986774921417236
+  bounding_poly {
+    vertices {
+      x: 71
+      y: 223
+    }
+    vertices {
+      x: 233
+      y: 223
+    }
+    vertices {
+      x: 233
+      y: 375
+    }
+    vertices {
+      x: 71
+      y: 375
+    }
+  }
+}
+logo_annotations {
+  mid: "/m/01b39j"
+  description: "Target Corporation"
+  score: 0.9976010322570801
+  bounding_poly {
+    vertices {
+      x: 383
+      y: 31
+    }
+    vertices {
+      x: 522
+      y: 31
+    }
+    vertices {
+      x: 522
+      y: 168
+    }
+    vertices {
+      x: 383
+      y: 168
+    }
+  }
+}
+logo_annotations {
+  mid: "/m/0lwkh"
+  description: "Nike"
+  score: 0.9971543550491333
+  bounding_poly {
+    vertices {
+      x: 76
+      y: 71
+    }
+    vertices {
+      x: 232
+      y: 71
+    }
+    vertices {
+      x: 232
+      y: 131
+    }
+    vertices {
+      x: 76
+      y: 131
+    }
+  }
+}
+logo_annotations {
+  mid: "/m/0k8z"
+  description: "Apple Inc."
+  score: 0.9956138730049133
+  bounding_poly {
+    vertices {
+      x: 383
+      y: 424
+    }
+    vertices {
+      x: 509
+      y: 424
+    }
+    vertices {
+      x: 509
+      y: 573
+    }
+    vertices {
+      x: 383
+      y: 573
+    }
+  }
+}
+logo_annotations {
+  mid: "/m/07gyp7"
+  description: "McDonald\'s"
+  score: 0.9954231977462769
+  bounding_poly {
+    vertices {
+      x: 673
+      y: 227
+    }
+    vertices {
+      x: 835
+      y: 227
+    }
+    vertices {
+      x: 835
+      y: 370
+    }
+    vertices {
+      x: 673
+      y: 370
+    }
+  }
+}
+logo_annotations {
+  mid: "/m/016bvz"
+  description: "NBC News"
+  score: 0.9793156981468201
+  bounding_poly {
+    vertices {
+      x: 667
+      y: 444
+    }
+    vertices {
+      x: 843
+      y: 444
+    }
+    vertices {
+      x: 843
+      y: 553
+    }
+    vertices {
+      x: 667
+      y: 553
+    }
+  }
+}
+logo_annotations {
+  mid: "/m/0829b"
+  description: "World Wide Fund for Nature"
+  score: 0.9736025929450989
+  bounding_poly {
+    vertices {
+      x: 690
+      y: 35
+    }
+    vertices {
+      x: 822
+      y: 35
+    }
+    vertices {
+      x: 822
+      y: 235
+    }
+    vertices {
+      x: 690
+      y: 235
+    }
+  }
+}
+logo_annotations {
+  mid: "/m/052mx"
+  description: "Mercedes-Benz"
+  score: 0.969948410987854
+  bounding_poly {
+    vertices {
+      x: 85
+      y: 437
+    }
+    vertices {
+      x: 212
+      y: 437
+    }
+    vertices {
+      x: 212
+      y: 566
+    }
+    vertices {
+      x: 85
+      y: 566
+    }
+  }
+}
