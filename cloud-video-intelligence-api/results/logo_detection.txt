@@ -1,0 +1,2186 @@
+annotation_results {
+  segment {
+    start_time_offset {
+    }
+    end_time_offset {
+      seconds: 29
+      nanos: 960000000
+    }
+  }
+  logo_recognition_annotations {
+    entity {
+      entity_id: "/m/064d7"
+      description: "Pepsi"
+      language_code: "en-US"
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 2
+          nanos: 40000000
+        }
+        end_time_offset {
+          seconds: 2
+          nanos: 760000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6368454694747925
+          top: 0.003498375415802002
+          right: 0.7166109085083008
+          bottom: 0.4095707833766937
+        }
+        time_offset {
+          seconds: 2
+          nanos: 40000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6363881230354309
+          top: 0.00478070555254817
+          right: 0.7181015610694885
+          bottom: 0.40926867723464966
+        }
+        time_offset {
+          seconds: 2
+          nanos: 160000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6365928053855896
+          top: 0.005915983114391565
+          right: 0.7185927033424377
+          bottom: 0.4090084433555603
+        }
+        time_offset {
+          seconds: 2
+          nanos: 280000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6364036798477173
+          top: 0.0058972593396902084
+          right: 0.719718873500824
+          bottom: 0.4107168912887573
+        }
+        time_offset {
+          seconds: 2
+          nanos: 400000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6374404430389404
+          top: 0.006356399040669203
+          right: 0.7189618945121765
+          bottom: 0.4099229872226715
+        }
+        time_offset {
+          seconds: 2
+          nanos: 520000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6372848153114319
+          top: 0.005707436241209507
+          right: 0.7194749116897583
+          bottom: 0.41098639369010925
+        }
+        time_offset {
+          seconds: 2
+          nanos: 640000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6374178528785706
+          top: 0.006081871688365936
+          right: 0.720852255821228
+          bottom: 0.4107023775577545
+        }
+        time_offset {
+          seconds: 2
+          nanos: 760000000
+        }
+      }
+      confidence: 0.9548713564872742
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 2
+          nanos: 40000000
+        }
+        end_time_offset {
+          seconds: 2
+          nanos: 760000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.48583629727363586
+          top: 0.4609544277191162
+          right: 0.5120237469673157
+          bottom: 0.520729660987854
+        }
+        time_offset {
+          seconds: 2
+          nanos: 40000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4855949878692627
+          top: 0.4608928859233856
+          right: 0.5119606852531433
+          bottom: 0.5208291411399841
+        }
+        time_offset {
+          seconds: 2
+          nanos: 160000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4856517016887665
+          top: 0.4605616629123688
+          right: 0.5118474960327148
+          bottom: 0.5210380554199219
+        }
+        time_offset {
+          seconds: 2
+          nanos: 280000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4854199290275574
+          top: 0.4601641893386841
+          right: 0.5120217800140381
+          bottom: 0.5215287804603577
+        }
+        time_offset {
+          seconds: 2
+          nanos: 400000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.48545703291893005
+          top: 0.46045777201652527
+          right: 0.5119936466217041
+          bottom: 0.5211337208747864
+        }
+        time_offset {
+          seconds: 2
+          nanos: 520000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4853387176990509
+          top: 0.4601181149482727
+          right: 0.5121025443077087
+          bottom: 0.5216100811958313
+        }
+        time_offset {
+          seconds: 2
+          nanos: 640000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4853792190551758
+          top: 0.4600021541118622
+          right: 0.5121321678161621
+          bottom: 0.5221959352493286
+        }
+        time_offset {
+          seconds: 2
+          nanos: 760000000
+        }
+      }
+      confidence: 0.953896164894104
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 3
+          nanos: 600000000
+        }
+        end_time_offset {
+          seconds: 4
+          nanos: 320000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4315515458583832
+          top: 0.4297446310520172
+          right: 0.5729368925094604
+          bottom: 0.7970811128616333
+        }
+        time_offset {
+          seconds: 3
+          nanos: 600000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.43167370557785034
+          top: 0.42866432666778564
+          right: 0.5735157132148743
+          bottom: 0.7983838319778442
+        }
+        time_offset {
+          seconds: 3
+          nanos: 720000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.43182212114334106
+          top: 0.4286464750766754
+          right: 0.5724805593490601
+          bottom: 0.7993420362472534
+        }
+        time_offset {
+          seconds: 3
+          nanos: 840000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.43092042207717896
+          top: 0.4287244975566864
+          right: 0.5731968879699707
+          bottom: 0.7998720407485962
+        }
+        time_offset {
+          seconds: 3
+          nanos: 960000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.43021973967552185
+          top: 0.42843392491340637
+          right: 0.5729607343673706
+          bottom: 0.8015817403793335
+        }
+        time_offset {
+          seconds: 4
+          nanos: 80000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4300345480442047
+          top: 0.42824506759643555
+          right: 0.5731171369552612
+          bottom: 0.8027035593986511
+        }
+        time_offset {
+          seconds: 4
+          nanos: 200000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.43036583065986633
+          top: 0.4285542964935303
+          right: 0.5728517174720764
+          bottom: 0.8027849197387695
+        }
+        time_offset {
+          seconds: 4
+          nanos: 320000000
+        }
+      }
+      confidence: 0.9553982019424438
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 4
+          nanos: 440000000
+        }
+        end_time_offset {
+          seconds: 5
+          nanos: 160000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.539337158203125
+          top: 0.49187830090522766
+          right: 0.6280001401901245
+          bottom: 0.7246062755584717
+        }
+        time_offset {
+          seconds: 4
+          nanos: 440000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.5392873883247375
+          top: 0.4918662905693054
+          right: 0.62849360704422
+          bottom: 0.7251794338226318
+        }
+        time_offset {
+          seconds: 4
+          nanos: 560000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.5390527844429016
+          top: 0.5056340098381042
+          right: 0.6293213367462158
+          bottom: 0.7262810468673706
+        }
+        time_offset {
+          seconds: 4
+          nanos: 680000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.5393773317337036
+          top: 0.49585580825805664
+          right: 0.6301498413085938
+          bottom: 0.7311185002326965
+        }
+        time_offset {
+          seconds: 4
+          nanos: 800000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.5397708415985107
+          top: 0.4942799210548401
+          right: 0.6309376358985901
+          bottom: 0.7307378053665161
+        }
+        time_offset {
+          seconds: 4
+          nanos: 920000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.5399278998374939
+          top: 0.49369847774505615
+          right: 0.6316137909889221
+          bottom: 0.7306914925575256
+        }
+        time_offset {
+          seconds: 5
+          nanos: 40000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.5400904417037964
+          top: 0.49410274624824524
+          right: 0.6318619847297668
+          bottom: 0.7311173677444458
+        }
+        time_offset {
+          seconds: 5
+          nanos: 160000000
+        }
+      }
+      confidence: 0.9553411602973938
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 6
+        }
+        end_time_offset {
+          seconds: 6
+          nanos: 600000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6628433465957642
+          top: 0.001113981008529663
+          right: 0.9707170724868774
+          bottom: 0.5306932926177979
+        }
+        time_offset {
+          seconds: 6
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6626569032669067
+          top: 0.0009261263767257333
+          right: 0.9707238078117371
+          bottom: 0.5308175683021545
+        }
+        time_offset {
+          seconds: 6
+          nanos: 120000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6625339984893799
+          top: 0.0007254870724864304
+          right: 0.9714623689651489
+          bottom: 0.5316233038902283
+        }
+        time_offset {
+          seconds: 6
+          nanos: 240000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6629036664962769
+          top: 0.0007718893466517329
+          right: 0.9714709520339966
+          bottom: 0.5325926542282104
+        }
+        time_offset {
+          seconds: 6
+          nanos: 360000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6627088189125061
+          top: 0.0011200130684301257
+          right: 0.9717452526092529
+          bottom: 0.5330880284309387
+        }
+        time_offset {
+          seconds: 6
+          nanos: 480000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6623526215553284
+          top: 0.0011702481424435973
+          right: 0.971831202507019
+          bottom: 0.5334046483039856
+        }
+        time_offset {
+          seconds: 6
+          nanos: 600000000
+        }
+      }
+      confidence: 0.9423242807388306
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 10
+          nanos: 80000000
+        }
+        end_time_offset {
+          seconds: 10
+          nanos: 680000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.32883593440055847
+          top: 0.5008990168571472
+          right: 0.36116233468055725
+          bottom: 0.5918640494346619
+        }
+        time_offset {
+          seconds: 10
+          nanos: 80000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3289816975593567
+          top: 0.5003156661987305
+          right: 0.3614791929721832
+          bottom: 0.5912806987762451
+        }
+        time_offset {
+          seconds: 10
+          nanos: 200000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.32909488677978516
+          top: 0.5000808835029602
+          right: 0.36157622933387756
+          bottom: 0.5964975357055664
+        }
+        time_offset {
+          seconds: 10
+          nanos: 320000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.32929691672325134
+          top: 0.4999237358570099
+          right: 0.3622112572193146
+          bottom: 0.5944292545318604
+        }
+        time_offset {
+          seconds: 10
+          nanos: 440000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.32905313372612
+          top: 0.5009907484054565
+          right: 0.36165520548820496
+          bottom: 0.5924878120422363
+        }
+        time_offset {
+          seconds: 10
+          nanos: 560000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.32860273122787476
+          top: 0.4990486204624176
+          right: 0.36202847957611084
+          bottom: 0.5951071977615356
+        }
+        time_offset {
+          seconds: 10
+          nanos: 680000000
+        }
+      }
+      confidence: 0.9688072204589844
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 12
+          nanos: 120000000
+        }
+        end_time_offset {
+          seconds: 12
+          nanos: 720000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.35374510288238525
+          top: 0.3768537938594818
+          right: 0.3916919231414795
+          bottom: 0.46868178248405457
+        }
+        time_offset {
+          seconds: 12
+          nanos: 120000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3536803126335144
+          top: 0.3768045902252197
+          right: 0.39172860980033875
+          bottom: 0.46904873847961426
+        }
+        time_offset {
+          seconds: 12
+          nanos: 240000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.35374221205711365
+          top: 0.3768220543861389
+          right: 0.3917267322540283
+          bottom: 0.4688257575035095
+        }
+        time_offset {
+          seconds: 12
+          nanos: 360000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3536945581436157
+          top: 0.3767796754837036
+          right: 0.39174506068229675
+          bottom: 0.46858081221580505
+        }
+        time_offset {
+          seconds: 12
+          nanos: 480000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3535870313644409
+          top: 0.3766382336616516
+          right: 0.3917299807071686
+          bottom: 0.4682835042476654
+        }
+        time_offset {
+          seconds: 12
+          nanos: 600000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.35349175333976746
+          top: 0.3764733672142029
+          right: 0.3917628228664398
+          bottom: 0.46867918968200684
+        }
+        time_offset {
+          seconds: 12
+          nanos: 720000000
+        }
+      }
+      confidence: 0.9664921760559082
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 18
+          nanos: 120000000
+        }
+        end_time_offset {
+          seconds: 18
+          nanos: 960000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.40391525626182556
+          top: 0.024035200476646423
+          right: 0.536571204662323
+          bottom: 0.12062138319015503
+        }
+        time_offset {
+          seconds: 18
+          nanos: 120000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4036995768547058
+          top: 0.024041881784796715
+          right: 0.5356433391571045
+          bottom: 0.12071739882230759
+        }
+        time_offset {
+          seconds: 18
+          nanos: 240000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.40374037623405457
+          top: 0.02401413954794407
+          right: 0.5370011329650879
+          bottom: 0.12132198363542557
+        }
+        time_offset {
+          seconds: 18
+          nanos: 360000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4039391279220581
+          top: 0.024115679785609245
+          right: 0.5356467366218567
+          bottom: 0.12046307325363159
+        }
+        time_offset {
+          seconds: 18
+          nanos: 480000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.403445303440094
+          top: 0.023714955896139145
+          right: 0.5358186364173889
+          bottom: 0.12102963030338287
+        }
+        time_offset {
+          seconds: 18
+          nanos: 600000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4035952091217041
+          top: 0.024028046056628227
+          right: 0.536109983921051
+          bottom: 0.12055867910385132
+        }
+        time_offset {
+          seconds: 18
+          nanos: 720000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.40383824706077576
+          top: 0.024151232093572617
+          right: 0.535794734954834
+          bottom: 0.12051737308502197
+        }
+        time_offset {
+          seconds: 18
+          nanos: 840000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4039051830768585
+          top: 0.02442159689962864
+          right: 0.5360733270645142
+          bottom: 0.12032671272754669
+        }
+        time_offset {
+          seconds: 18
+          nanos: 960000000
+        }
+      }
+      confidence: 0.9325584173202515
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 19
+          nanos: 80000000
+        }
+        end_time_offset {
+          seconds: 19
+          nanos: 440000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.8224697113037109
+          top: 0.682937741279602
+          right: 0.9910489320755005
+          bottom: 0.9933321475982666
+        }
+        time_offset {
+          seconds: 19
+          nanos: 80000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.8246409296989441
+          top: 0.6896342039108276
+          right: 0.9959328770637512
+          bottom: 0.9925774335861206
+        }
+        time_offset {
+          seconds: 19
+          nanos: 200000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.8271973133087158
+          top: 0.6986082196235657
+          right: 0.9982224702835083
+          bottom: 0.999146580696106
+        }
+        time_offset {
+          seconds: 19
+          nanos: 320000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.8272088766098022
+          top: 0.7123059034347534
+          right: 0.9997714161872864
+          bottom: 0.9989152550697327
+        }
+        time_offset {
+          seconds: 19
+          nanos: 440000000
+        }
+      }
+      confidence: 0.9682878851890564
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 21
+          nanos: 120000000
+        }
+        end_time_offset {
+          seconds: 21
+          nanos: 840000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.263317734003067
+          top: 0.45686447620391846
+          right: 0.31332752108573914
+          bottom: 0.5576231479644775
+        }
+        time_offset {
+          seconds: 21
+          nanos: 120000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.263795405626297
+          top: 0.45896264910697937
+          right: 0.3121732771396637
+          bottom: 0.5628174543380737
+        }
+        time_offset {
+          seconds: 21
+          nanos: 240000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.2643495202064514
+          top: 0.45944103598594666
+          right: 0.31305354833602905
+          bottom: 0.5835191011428833
+        }
+        time_offset {
+          seconds: 21
+          nanos: 360000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.2649722397327423
+          top: 0.4634554088115692
+          right: 0.31401288509368896
+          bottom: 0.5866415500640869
+        }
+        time_offset {
+          seconds: 21
+          nanos: 480000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.2615595757961273
+          top: 0.4588230550289154
+          right: 0.31734663248062134
+          bottom: 0.5965181589126587
+        }
+        time_offset {
+          seconds: 21
+          nanos: 600000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.2602209448814392
+          top: 0.45633918046951294
+          right: 0.3164547383785248
+          bottom: 0.5951862931251526
+        }
+        time_offset {
+          seconds: 21
+          nanos: 720000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.26416346430778503
+          top: 0.4609817862510681
+          right: 0.31224048137664795
+          bottom: 0.5894134044647217
+        }
+        time_offset {
+          seconds: 21
+          nanos: 840000000
+        }
+      }
+      confidence: 0.9561178088188171
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 23
+          nanos: 160000000
+        }
+        end_time_offset {
+          seconds: 24
+          nanos: 720000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3591156601905823
+          top: 0.7061975598335266
+          right: 0.4564451575279236
+          bottom: 0.9240575432777405
+        }
+        time_offset {
+          seconds: 23
+          nanos: 160000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3645879328250885
+          top: 0.6415928602218628
+          right: 0.4675396680831909
+          bottom: 0.8633600473403931
+        }
+        time_offset {
+          seconds: 23
+          nanos: 280000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3751313388347626
+          top: 0.5974900722503662
+          right: 0.4708259701728821
+          bottom: 0.7717578411102295
+        }
+        time_offset {
+          seconds: 23
+          nanos: 400000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.382951557636261
+          top: 0.5263203978538513
+          right: 0.4746360182762146
+          bottom: 0.7025579214096069
+        }
+        time_offset {
+          seconds: 23
+          nanos: 520000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3629736602306366
+          top: 0.45706698298454285
+          right: 0.48770570755004883
+          bottom: 0.6430469751358032
+        }
+        time_offset {
+          seconds: 23
+          nanos: 640000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.36340028047561646
+          top: 0.39603710174560547
+          right: 0.4927407503128052
+          bottom: 0.574650764465332
+        }
+        time_offset {
+          seconds: 23
+          nanos: 760000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3730974495410919
+          top: 0.34527212381362915
+          right: 0.5021147131919861
+          bottom: 0.5076924562454224
+        }
+        time_offset {
+          seconds: 23
+          nanos: 880000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.38766661286354065
+          top: 0.30250075459480286
+          right: 0.5151018500328064
+          bottom: 0.47232896089553833
+        }
+        time_offset {
+          seconds: 24
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.39616093039512634
+          top: 0.28168562054634094
+          right: 0.5242510437965393
+          bottom: 0.43847304582595825
+        }
+        time_offset {
+          seconds: 24
+          nanos: 120000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.41896331310272217
+          top: 0.2702123820781708
+          right: 0.5316551923751831
+          bottom: 0.4292296767234802
+        }
+        time_offset {
+          seconds: 24
+          nanos: 240000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4159455895423889
+          top: 0.26013559103012085
+          right: 0.5443695187568665
+          bottom: 0.41887998580932617
+        }
+        time_offset {
+          seconds: 24
+          nanos: 360000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4497739374637604
+          top: 0.24456354975700378
+          right: 0.544413149356842
+          bottom: 0.4100012183189392
+        }
+        time_offset {
+          seconds: 24
+          nanos: 480000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.4588756859302521
+          top: 0.2385013997554779
+          right: 0.5535575747489929
+          bottom: 0.40188002586364746
+        }
+        time_offset {
+          seconds: 24
+          nanos: 600000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.45879271626472473
+          top: 0.24278245866298676
+          right: 0.5571235418319702
+          bottom: 0.409146785736084
+        }
+        time_offset {
+          seconds: 24
+          nanos: 720000000
+        }
+      }
+      confidence: 0.9613817930221558
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 26
+          nanos: 640000000
+        }
+        end_time_offset {
+          seconds: 27
+          nanos: 360000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.38452374935150146
+          top: 0.19614529609680176
+          right: 0.7170730829238892
+          bottom: 0.439800500869751
+        }
+        time_offset {
+          seconds: 26
+          nanos: 640000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.375918447971344
+          top: 0.19274060428142548
+          right: 0.7011727094650269
+          bottom: 0.4298962354660034
+        }
+        time_offset {
+          seconds: 26
+          nanos: 760000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3728153109550476
+          top: 0.19367370009422302
+          right: 0.6871161460876465
+          bottom: 0.41845279932022095
+        }
+        time_offset {
+          seconds: 26
+          nanos: 880000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3710373640060425
+          top: 0.19238509237766266
+          right: 0.688493013381958
+          bottom: 0.4134661853313446
+        }
+        time_offset {
+          seconds: 27
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3688161373138428
+          top: 0.18050751090049744
+          right: 0.7046120166778564
+          bottom: 0.4175912141799927
+        }
+        time_offset {
+          seconds: 27
+          nanos: 120000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.3782752752304077
+          top: 0.17925651371479034
+          right: 0.7207770347595215
+          bottom: 0.4177672863006592
+        }
+        time_offset {
+          seconds: 27
+          nanos: 240000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.38627609610557556
+          top: 0.1781332939863205
+          right: 0.7262354493141174
+          bottom: 0.41169601678848267
+        }
+        time_offset {
+          seconds: 27
+          nanos: 360000000
+        }
+      }
+      confidence: 0.9286108016967773
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 27
+          nanos: 480000000
+        }
+        end_time_offset {
+          seconds: 29
+          nanos: 880000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7006600499153137
+          top: 0.3176315426826477
+          right: 0.8292587399482727
+          bottom: 0.44043201208114624
+        }
+        time_offset {
+          seconds: 27
+          nanos: 480000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6952185034751892
+          top: 0.3185563087463379
+          right: 0.8216097354888916
+          bottom: 0.44270575046539307
+        }
+        time_offset {
+          seconds: 27
+          nanos: 600000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.68863844871521
+          top: 0.3202633857727051
+          right: 0.811892569065094
+          bottom: 0.44304925203323364
+        }
+        time_offset {
+          seconds: 27
+          nanos: 720000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6810332536697388
+          top: 0.3203888237476349
+          right: 0.8039131164550781
+          bottom: 0.4433203637599945
+        }
+        time_offset {
+          seconds: 27
+          nanos: 840000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6778673529624939
+          top: 0.3236185908317566
+          right: 0.7938743829727173
+          bottom: 0.44223544001579285
+        }
+        time_offset {
+          seconds: 27
+          nanos: 960000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6706327795982361
+          top: 0.3252415359020233
+          right: 0.7851531505584717
+          bottom: 0.44116267561912537
+        }
+        time_offset {
+          seconds: 28
+          nanos: 80000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6652651429176331
+          top: 0.3242615759372711
+          right: 0.7769708633422852
+          bottom: 0.4400441348552704
+        }
+        time_offset {
+          seconds: 28
+          nanos: 200000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6595056056976318
+          top: 0.32564204931259155
+          right: 0.7711942195892334
+          bottom: 0.4408993721008301
+        }
+        time_offset {
+          seconds: 28
+          nanos: 320000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6519404053688049
+          top: 0.3244338929653168
+          right: 0.7638563513755798
+          bottom: 0.4423833191394806
+        }
+        time_offset {
+          seconds: 28
+          nanos: 440000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6490239500999451
+          top: 0.3279024660587311
+          right: 0.7544541358947754
+          bottom: 0.4404173493385315
+        }
+        time_offset {
+          seconds: 28
+          nanos: 560000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6437755823135376
+          top: 0.32958313822746277
+          right: 0.7466905117034912
+          bottom: 0.43983298540115356
+        }
+        time_offset {
+          seconds: 28
+          nanos: 680000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6357074975967407
+          top: 0.32860857248306274
+          right: 0.7429535984992981
+          bottom: 0.4413275718688965
+        }
+        time_offset {
+          seconds: 28
+          nanos: 800000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6324371695518494
+          top: 0.32875335216522217
+          right: 0.73370760679245
+          bottom: 0.43839478492736816
+        }
+        time_offset {
+          seconds: 28
+          nanos: 920000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6289314031600952
+          top: 0.32978102564811707
+          right: 0.7255114316940308
+          bottom: 0.43561607599258423
+        }
+        time_offset {
+          seconds: 29
+          nanos: 40000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6236652135848999
+          top: 0.32932931184768677
+          right: 0.7196625471115112
+          bottom: 0.4365313649177551
+        }
+        time_offset {
+          seconds: 29
+          nanos: 160000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6196012496948242
+          top: 0.3307333290576935
+          right: 0.7135850191116333
+          bottom: 0.4360651671886444
+        }
+        time_offset {
+          seconds: 29
+          nanos: 280000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6144044995307922
+          top: 0.33049270510673523
+          right: 0.7081789970397949
+          bottom: 0.43575289845466614
+        }
+        time_offset {
+          seconds: 29
+          nanos: 400000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6083465814590454
+          top: 0.33069586753845215
+          right: 0.702025294303894
+          bottom: 0.4346521496772766
+        }
+        time_offset {
+          seconds: 29
+          nanos: 520000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6054394841194153
+          top: 0.33302149176597595
+          right: 0.6929792761802673
+          bottom: 0.4321228265762329
+        }
+        time_offset {
+          seconds: 29
+          nanos: 640000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.5999506115913391
+          top: 0.3317844569683075
+          right: 0.6880372166633606
+          bottom: 0.43354713916778564
+        }
+        time_offset {
+          seconds: 29
+          nanos: 760000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.5951741933822632
+          top: 0.3322386145591736
+          right: 0.683236837387085
+          bottom: 0.4340342879295349
+        }
+        time_offset {
+          seconds: 29
+          nanos: 880000000
+        }
+      }
+      confidence: 0.9456161260604858
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 27
+          nanos: 480000000
+        }
+        end_time_offset {
+          seconds: 29
+          nanos: 880000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7146691083908081
+          top: 0.617266058921814
+          right: 0.842646598815918
+          bottom: 0.7080562114715576
+        }
+        time_offset {
+          seconds: 27
+          nanos: 480000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7851275205612183
+          top: 0.7467951774597168
+          right: 0.856228232383728
+          bottom: 0.9174926280975342
+        }
+        time_offset {
+          seconds: 27
+          nanos: 600000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.785289466381073
+          top: 0.7431516647338867
+          right: 0.8566496968269348
+          bottom: 0.9181949496269226
+        }
+        time_offset {
+          seconds: 27
+          nanos: 720000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7850821614265442
+          top: 0.7433390021324158
+          right: 0.8563940525054932
+          bottom: 0.9175390601158142
+        }
+        time_offset {
+          seconds: 27
+          nanos: 840000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7842110395431519
+          top: 0.742618203163147
+          right: 0.856935441493988
+          bottom: 0.916802704334259
+        }
+        time_offset {
+          seconds: 27
+          nanos: 960000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7840956449508667
+          top: 0.7423474192619324
+          right: 0.8568707704544067
+          bottom: 0.9165051579475403
+        }
+        time_offset {
+          seconds: 28
+          nanos: 80000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7840877771377563
+          top: 0.7423294186592102
+          right: 0.8568389415740967
+          bottom: 0.916526198387146
+        }
+        time_offset {
+          seconds: 28
+          nanos: 200000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7840622663497925
+          top: 0.742368221282959
+          right: 0.8568270206451416
+          bottom: 0.9166634678840637
+        }
+        time_offset {
+          seconds: 28
+          nanos: 320000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7840316295623779
+          top: 0.7424188256263733
+          right: 0.8568735122680664
+          bottom: 0.9167982339859009
+        }
+        time_offset {
+          seconds: 28
+          nanos: 440000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7840398550033569
+          top: 0.7424181699752808
+          right: 0.8568787574768066
+          bottom: 0.9168848991394043
+        }
+        time_offset {
+          seconds: 28
+          nanos: 560000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7840011715888977
+          top: 0.7423415184020996
+          right: 0.8569033741950989
+          bottom: 0.9169614315032959
+        }
+        time_offset {
+          seconds: 28
+          nanos: 680000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7839845418930054
+          top: 0.742331326007843
+          right: 0.8569164276123047
+          bottom: 0.9169687032699585
+        }
+        time_offset {
+          seconds: 28
+          nanos: 800000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7839616537094116
+          top: 0.7422875761985779
+          right: 0.8568724989891052
+          bottom: 0.9170041084289551
+        }
+        time_offset {
+          seconds: 28
+          nanos: 920000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7839459180831909
+          top: 0.7423500418663025
+          right: 0.8568986058235168
+          bottom: 0.9169777631759644
+        }
+        time_offset {
+          seconds: 29
+          nanos: 40000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7839315533638
+          top: 0.7423222661018372
+          right: 0.8569025993347168
+          bottom: 0.91700679063797
+        }
+        time_offset {
+          seconds: 29
+          nanos: 160000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7839624881744385
+          top: 0.7423567175865173
+          right: 0.8568852543830872
+          bottom: 0.9169797897338867
+        }
+        time_offset {
+          seconds: 29
+          nanos: 280000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7839656472206116
+          top: 0.7424367666244507
+          right: 0.8568751215934753
+          bottom: 0.916978657245636
+        }
+        time_offset {
+          seconds: 29
+          nanos: 400000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7839406728744507
+          top: 0.7424746155738831
+          right: 0.8568577766418457
+          bottom: 0.9169579744338989
+        }
+        time_offset {
+          seconds: 29
+          nanos: 520000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7839085459709167
+          top: 0.7425061464309692
+          right: 0.8569144010543823
+          bottom: 0.9169782996177673
+        }
+        time_offset {
+          seconds: 29
+          nanos: 640000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7839107513427734
+          top: 0.7425119876861572
+          right: 0.8569179177284241
+          bottom: 0.9170319437980652
+        }
+        time_offset {
+          seconds: 29
+          nanos: 760000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7838907241821289
+          top: 0.7424366474151611
+          right: 0.8569765686988831
+          bottom: 0.9171155095100403
+        }
+        time_offset {
+          seconds: 29
+          nanos: 880000000
+        }
+      }
+      confidence: 0.9106374979019165
+    }
+    segments {
+      start_time_offset {
+        seconds: 2
+        nanos: 40000000
+      }
+      end_time_offset {
+        seconds: 2
+        nanos: 760000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 3
+        nanos: 600000000
+      }
+      end_time_offset {
+        seconds: 4
+        nanos: 320000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 4
+        nanos: 440000000
+      }
+      end_time_offset {
+        seconds: 5
+        nanos: 160000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 6
+      }
+      end_time_offset {
+        seconds: 6
+        nanos: 600000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 10
+        nanos: 80000000
+      }
+      end_time_offset {
+        seconds: 10
+        nanos: 680000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 12
+        nanos: 120000000
+      }
+      end_time_offset {
+        seconds: 12
+        nanos: 720000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 18
+        nanos: 120000000
+      }
+      end_time_offset {
+        seconds: 18
+        nanos: 960000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 19
+        nanos: 80000000
+      }
+      end_time_offset {
+        seconds: 19
+        nanos: 440000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 21
+        nanos: 120000000
+      }
+      end_time_offset {
+        seconds: 21
+        nanos: 840000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 23
+        nanos: 160000000
+      }
+      end_time_offset {
+        seconds: 24
+        nanos: 720000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 26
+        nanos: 640000000
+      }
+      end_time_offset {
+        seconds: 27
+        nanos: 360000000
+      }
+    }
+    segments {
+      start_time_offset {
+        seconds: 27
+        nanos: 480000000
+      }
+      end_time_offset {
+        seconds: 29
+        nanos: 880000000
+      }
+    }
+  }
+  logo_recognition_annotations {
+    entity {
+      entity_id: "/m/07y9k"
+      description: "UEFA"
+      language_code: "en-US"
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 27
+          nanos: 600000000
+        }
+        end_time_offset {
+          seconds: 29
+          nanos: 880000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6368090510368347
+          top: 0.7448318004608154
+          right: 0.7457862496376038
+          bottom: 0.9148303270339966
+        }
+        time_offset {
+          seconds: 27
+          nanos: 600000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384255290031433
+          top: 0.7430800795555115
+          right: 0.7453536987304688
+          bottom: 0.9165970087051392
+        }
+        time_offset {
+          seconds: 27
+          nanos: 720000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6389955878257751
+          top: 0.7428930401802063
+          right: 0.7456303238868713
+          bottom: 0.9145041108131409
+        }
+        time_offset {
+          seconds: 27
+          nanos: 840000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384509801864624
+          top: 0.7435382604598999
+          right: 0.7459383606910706
+          bottom: 0.9136553406715393
+        }
+        time_offset {
+          seconds: 27
+          nanos: 960000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.638393223285675
+          top: 0.7435278296470642
+          right: 0.7457720041275024
+          bottom: 0.9135892391204834
+        }
+        time_offset {
+          seconds: 28
+          nanos: 80000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6383980512619019
+          top: 0.743468165397644
+          right: 0.7456866502761841
+          bottom: 0.9136555194854736
+        }
+        time_offset {
+          seconds: 28
+          nanos: 200000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6383965611457825
+          top: 0.7434437274932861
+          right: 0.7457155585289001
+          bottom: 0.9137707948684692
+        }
+        time_offset {
+          seconds: 28
+          nanos: 320000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384989023208618
+          top: 0.7434809803962708
+          right: 0.7457219362258911
+          bottom: 0.9138634204864502
+        }
+        time_offset {
+          seconds: 28
+          nanos: 440000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6385408043861389
+          top: 0.7434825301170349
+          right: 0.7457214593887329
+          bottom: 0.9139623641967773
+        }
+        time_offset {
+          seconds: 28
+          nanos: 560000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6385335326194763
+          top: 0.7434852719306946
+          right: 0.7457562685012817
+          bottom: 0.9140515923500061
+        }
+        time_offset {
+          seconds: 28
+          nanos: 680000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384862065315247
+          top: 0.7435199618339539
+          right: 0.7457517981529236
+          bottom: 0.9139481782913208
+        }
+        time_offset {
+          seconds: 28
+          nanos: 800000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384921669960022
+          top: 0.7433860301971436
+          right: 0.7456836700439453
+          bottom: 0.9141250848770142
+        }
+        time_offset {
+          seconds: 28
+          nanos: 920000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384479999542236
+          top: 0.7435551881790161
+          right: 0.7456133365631104
+          bottom: 0.9140074253082275
+        }
+        time_offset {
+          seconds: 29
+          nanos: 40000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384961605072021
+          top: 0.7435523271560669
+          right: 0.7456390857696533
+          bottom: 0.9139567017555237
+        }
+        time_offset {
+          seconds: 29
+          nanos: 160000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384326815605164
+          top: 0.7435812950134277
+          right: 0.7456978559494019
+          bottom: 0.9139246940612793
+        }
+        time_offset {
+          seconds: 29
+          nanos: 280000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384109854698181
+          top: 0.7434978485107422
+          right: 0.745756208896637
+          bottom: 0.9139391779899597
+        }
+        time_offset {
+          seconds: 29
+          nanos: 400000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.638378381729126
+          top: 0.743622899055481
+          right: 0.7457597255706787
+          bottom: 0.9139453172683716
+        }
+        time_offset {
+          seconds: 29
+          nanos: 520000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6385044455528259
+          top: 0.7437174320220947
+          right: 0.7457237243652344
+          bottom: 0.9140537977218628
+        }
+        time_offset {
+          seconds: 29
+          nanos: 640000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6384506225585938
+          top: 0.7437944412231445
+          right: 0.7457735538482666
+          bottom: 0.9141536951065063
+        }
+        time_offset {
+          seconds: 29
+          nanos: 760000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.6385726928710938
+          top: 0.7436726093292236
+          right: 0.7457492351531982
+          bottom: 0.9141029715538025
+        }
+        time_offset {
+          seconds: 29
+          nanos: 880000000
+        }
+      }
+      confidence: 0.9070633053779602
+    }
+    segments {
+      start_time_offset {
+        seconds: 27
+        nanos: 600000000
+      }
+      end_time_offset {
+        seconds: 29
+        nanos: 880000000
+      }
+    }
+  }
+  logo_recognition_annotations {
+    entity {
+      entity_id: "/m/01z9k9"
+      description: "Renault Samsung Motors"
+      language_code: "en-US"
+    }
+    tracks {
+      segment {
+        start_time_offset {
+          seconds: 20
+          nanos: 40000000
+        }
+        end_time_offset {
+          seconds: 20
+          nanos: 280000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7177068591117859
+          top: 0.3134270906448364
+          right: 0.7446814179420471
+          bottom: 0.36559808254241943
+        }
+        time_offset {
+          seconds: 20
+          nanos: 40000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.727321445941925
+          top: 0.3251117765903473
+          right: 0.7580794095993042
+          bottom: 0.3772827684879303
+        }
+        time_offset {
+          seconds: 20
+          nanos: 160000000
+        }
+      }
+      timestamped_objects {
+        normalized_bounding_box {
+          left: 0.7386954426765442
+          top: 0.3192301094532013
+          right: 0.765249490737915
+          bottom: 0.3714011013507843
+        }
+        time_offset {
+          seconds: 20
+          nanos: 280000000
+        }
+      }
+      confidence: 0.8907700777053833
+    }
+    segments {
+      start_time_offset {
+        seconds: 20
+        nanos: 40000000
+      }
+      end_time_offset {
+        seconds: 20
+        nanos: 280000000
+      }
+    }
+  }
+}
