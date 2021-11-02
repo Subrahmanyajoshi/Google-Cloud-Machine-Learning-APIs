@@ -1,0 +1,672 @@
+annotation_results {
+  segment {
+    start_time_offset {
+    }
+    end_time_offset {
+      seconds: 60
+      nanos: 23582000
+    }
+  }
+  speech_transcriptions {
+    alternatives {
+      transcript: "Ideas are beautiful. At first. They are inside you. Electrify you grow from our imagination."
+      confidence: 0.890066385269165
+      words {
+        start_time {
+          seconds: 3
+          nanos: 400000000
+        }
+        end_time {
+          seconds: 4
+          nanos: 300000000
+        }
+        word: "Ideas"
+      }
+      words {
+        start_time {
+          seconds: 4
+          nanos: 400000000
+        }
+        end_time {
+          seconds: 4
+          nanos: 600000000
+        }
+        word: "are"
+      }
+      words {
+        start_time {
+          seconds: 4
+          nanos: 600000000
+        }
+        end_time {
+          seconds: 5
+          nanos: 300000000
+        }
+        word: "beautiful."
+      }
+      words {
+        start_time {
+          seconds: 8
+        }
+        end_time {
+          seconds: 8
+          nanos: 200000000
+        }
+        word: "At"
+      }
+      words {
+        start_time {
+          seconds: 8
+          nanos: 200000000
+        }
+        end_time {
+          seconds: 8
+          nanos: 800000000
+        }
+        word: "first."
+      }
+      words {
+        start_time {
+          seconds: 8
+          nanos: 900000000
+        }
+        end_time {
+          seconds: 9
+          nanos: 100000000
+        }
+        word: "They"
+      }
+      words {
+        start_time {
+          seconds: 9
+          nanos: 100000000
+        }
+        end_time {
+          seconds: 9
+          nanos: 200000000
+        }
+        word: "are"
+      }
+      words {
+        start_time {
+          seconds: 9
+          nanos: 200000000
+        }
+        end_time {
+          seconds: 9
+          nanos: 700000000
+        }
+        word: "inside"
+      }
+      words {
+        start_time {
+          seconds: 9
+          nanos: 700000000
+        }
+        end_time {
+          seconds: 10
+        }
+        word: "you."
+      }
+      words {
+        start_time {
+          seconds: 11
+          nanos: 500000000
+        }
+        end_time {
+          seconds: 12
+          nanos: 300000000
+        }
+        word: "Electrify"
+      }
+      words {
+        start_time {
+          seconds: 12
+          nanos: 300000000
+        }
+        end_time {
+          seconds: 12
+          nanos: 600000000
+        }
+        word: "you"
+      }
+      words {
+        start_time {
+          seconds: 14
+          nanos: 300000000
+        }
+        end_time {
+          seconds: 14
+          nanos: 700000000
+        }
+        word: "grow"
+      }
+      words {
+        start_time {
+          seconds: 14
+          nanos: 700000000
+        }
+        end_time {
+          seconds: 15
+          nanos: 100000000
+        }
+        word: "from"
+      }
+      words {
+        start_time {
+          seconds: 15
+          nanos: 100000000
+        }
+        end_time {
+          seconds: 15
+          nanos: 300000000
+        }
+        word: "our"
+      }
+      words {
+        start_time {
+          seconds: 15
+          nanos: 300000000
+        }
+        end_time {
+          seconds: 16
+          nanos: 200000000
+        }
+        word: "imagination."
+      }
+    }
+    language_code: "en-us"
+  }
+  speech_transcriptions {
+    alternatives {
+      transcript: " But ultimately, they want to be set, free out into the world, to disrupted, improve it to make it more meaningful more, beautiful, and even more incredible ideas for the future, just like that. The new fully electric Audi, RS, e-tron TT."
+      confidence: 0.912838339805603
+      words {
+        start_time {
+          seconds: 18
+          nanos: 600000000
+        }
+        end_time {
+          seconds: 18
+          nanos: 800000000
+        }
+        word: "But"
+      }
+      words {
+        start_time {
+          seconds: 18
+          nanos: 800000000
+        }
+        end_time {
+          seconds: 19
+          nanos: 700000000
+        }
+        word: "ultimately,"
+      }
+      words {
+        start_time {
+          seconds: 20
+          nanos: 100000000
+        }
+        end_time {
+          seconds: 20
+          nanos: 200000000
+        }
+        word: "they"
+      }
+      words {
+        start_time {
+          seconds: 20
+          nanos: 200000000
+        }
+        end_time {
+          seconds: 20
+          nanos: 500000000
+        }
+        word: "want"
+      }
+      words {
+        start_time {
+          seconds: 20
+          nanos: 500000000
+        }
+        end_time {
+          seconds: 20
+          nanos: 600000000
+        }
+        word: "to"
+      }
+      words {
+        start_time {
+          seconds: 20
+          nanos: 600000000
+        }
+        end_time {
+          seconds: 20
+          nanos: 700000000
+        }
+        word: "be"
+      }
+      words {
+        start_time {
+          seconds: 20
+          nanos: 700000000
+        }
+        end_time {
+          seconds: 21
+          nanos: 100000000
+        }
+        word: "set,"
+      }
+      words {
+        start_time {
+          seconds: 21
+          nanos: 100000000
+        }
+        end_time {
+          seconds: 21
+          nanos: 600000000
+        }
+        word: "free"
+      }
+      words {
+        start_time {
+          seconds: 23
+        }
+        end_time {
+          seconds: 23
+          nanos: 700000000
+        }
+        word: "out"
+      }
+      words {
+        start_time {
+          seconds: 24
+          nanos: 600000000
+        }
+        end_time {
+          seconds: 24
+          nanos: 900000000
+        }
+        word: "into"
+      }
+      words {
+        start_time {
+          seconds: 24
+          nanos: 900000000
+        }
+        end_time {
+          seconds: 24
+          nanos: 900000000
+        }
+        word: "the"
+      }
+      words {
+        start_time {
+          seconds: 24
+          nanos: 900000000
+        }
+        end_time {
+          seconds: 25
+          nanos: 600000000
+        }
+        word: "world,"
+      }
+      words {
+        start_time {
+          seconds: 27
+          nanos: 300000000
+        }
+        end_time {
+          seconds: 27
+          nanos: 400000000
+        }
+        word: "to"
+      }
+      words {
+        start_time {
+          seconds: 27
+          nanos: 400000000
+        }
+        end_time {
+          seconds: 28
+          nanos: 300000000
+        }
+        word: "disrupted,"
+      }
+      words {
+        start_time {
+          seconds: 29
+          nanos: 900000000
+        }
+        end_time {
+          seconds: 30
+          nanos: 500000000
+        }
+        word: "improve"
+      }
+      words {
+        start_time {
+          seconds: 30
+          nanos: 500000000
+        }
+        end_time {
+          seconds: 30
+          nanos: 900000000
+        }
+        word: "it"
+      }
+      words {
+        start_time {
+          seconds: 31
+          nanos: 900000000
+        }
+        end_time {
+          seconds: 32
+        }
+        word: "to"
+      }
+      words {
+        start_time {
+          seconds: 32
+        }
+        end_time {
+          seconds: 32
+          nanos: 200000000
+        }
+        word: "make"
+      }
+      words {
+        start_time {
+          seconds: 32
+          nanos: 200000000
+        }
+        end_time {
+          seconds: 32
+          nanos: 300000000
+        }
+        word: "it"
+      }
+      words {
+        start_time {
+          seconds: 32
+          nanos: 300000000
+        }
+        end_time {
+          seconds: 32
+          nanos: 600000000
+        }
+        word: "more"
+      }
+      words {
+        start_time {
+          seconds: 32
+          nanos: 600000000
+        }
+        end_time {
+          seconds: 33
+          nanos: 300000000
+        }
+        word: "meaningful"
+      }
+      words {
+        start_time {
+          seconds: 33
+          nanos: 900000000
+        }
+        end_time {
+          seconds: 34
+          nanos: 400000000
+        }
+        word: "more,"
+      }
+      words {
+        start_time {
+          seconds: 34
+          nanos: 500000000
+        }
+        end_time {
+          seconds: 35
+          nanos: 200000000
+        }
+        word: "beautiful,"
+      }
+      words {
+        start_time {
+          seconds: 36
+        }
+        end_time {
+          seconds: 36
+          nanos: 300000000
+        }
+        word: "and"
+      }
+      words {
+        start_time {
+          seconds: 36
+          nanos: 300000000
+        }
+        end_time {
+          seconds: 36
+          nanos: 600000000
+        }
+        word: "even"
+      }
+      words {
+        start_time {
+          seconds: 36
+          nanos: 600000000
+        }
+        end_time {
+          seconds: 36
+          nanos: 800000000
+        }
+        word: "more"
+      }
+      words {
+        start_time {
+          seconds: 37
+          nanos: 600000000
+        }
+        end_time {
+          seconds: 38
+          nanos: 400000000
+        }
+        word: "incredible"
+      }
+      words {
+        start_time {
+          seconds: 40
+          nanos: 100000000
+        }
+        end_time {
+          seconds: 40
+          nanos: 700000000
+        }
+        word: "ideas"
+      }
+      words {
+        start_time {
+          seconds: 40
+          nanos: 700000000
+        }
+        end_time {
+          seconds: 40
+          nanos: 800000000
+        }
+        word: "for"
+      }
+      words {
+        start_time {
+          seconds: 40
+          nanos: 800000000
+        }
+        end_time {
+          seconds: 41
+        }
+        word: "the"
+      }
+      words {
+        start_time {
+          seconds: 41
+        }
+        end_time {
+          seconds: 41
+          nanos: 600000000
+        }
+        word: "future,"
+      }
+      words {
+        start_time {
+          seconds: 42
+          nanos: 100000000
+        }
+        end_time {
+          seconds: 42
+          nanos: 400000000
+        }
+        word: "just"
+      }
+      words {
+        start_time {
+          seconds: 42
+          nanos: 400000000
+        }
+        end_time {
+          seconds: 42
+          nanos: 600000000
+        }
+        word: "like"
+      }
+      words {
+        start_time {
+          seconds: 42
+          nanos: 600000000
+        }
+        end_time {
+          seconds: 43
+          nanos: 100000000
+        }
+        word: "that."
+      }
+      words {
+        start_time {
+          seconds: 44
+          nanos: 200000000
+        }
+        end_time {
+          seconds: 44
+          nanos: 300000000
+        }
+        word: "The"
+      }
+      words {
+        start_time {
+          seconds: 44
+          nanos: 300000000
+        }
+        end_time {
+          seconds: 44
+          nanos: 500000000
+        }
+        word: "new"
+      }
+      words {
+        start_time {
+          seconds: 44
+          nanos: 500000000
+        }
+        end_time {
+          seconds: 44
+          nanos: 900000000
+        }
+        word: "fully"
+      }
+      words {
+        start_time {
+          seconds: 44
+          nanos: 900000000
+        }
+        end_time {
+          seconds: 45
+          nanos: 500000000
+        }
+        word: "electric"
+      }
+      words {
+        start_time {
+          seconds: 45
+          nanos: 500000000
+        }
+        end_time {
+          seconds: 45
+          nanos: 800000000
+        }
+        word: "Audi,"
+      }
+      words {
+        start_time {
+          seconds: 45
+          nanos: 800000000
+        }
+        end_time {
+          seconds: 46
+          nanos: 300000000
+        }
+        word: "RS,"
+      }
+      words {
+        start_time {
+          seconds: 46
+          nanos: 400000000
+        }
+        end_time {
+          seconds: 46
+          nanos: 900000000
+        }
+        word: "e-tron"
+      }
+      words {
+        start_time {
+          seconds: 46
+          nanos: 900000000
+        }
+        end_time {
+          seconds: 47
+          nanos: 600000000
+        }
+        word: "TT."
+      }
+    }
+    language_code: "en-us"
+  }
+  speech_transcriptions {
+    alternatives {
+      transcript: " I already."
+      confidence: 0.6781833171844482
+      words {
+        start_time {
+          seconds: 56
+          nanos: 400000000
+        }
+        end_time {
+          seconds: 56
+          nanos: 500000000
+        }
+        word: "I"
+      }
+      words {
+        start_time {
+          seconds: 56
+          nanos: 500000000
+        }
+        end_time {
+          seconds: 56
+          nanos: 900000000
+        }
+        word: "already."
+      }
+    }
+    language_code: "en-us"
+  }
+}
