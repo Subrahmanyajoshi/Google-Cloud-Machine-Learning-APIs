@@ -1,0 +1,257 @@
+annotation_results {
+  shot_annotations {
+    start_time_offset {
+    }
+    end_time_offset {
+      seconds: 2
+      nanos: 40000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 2
+      nanos: 80000000
+    }
+    end_time_offset {
+      seconds: 4
+      nanos: 40000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 4
+      nanos: 80000000
+    }
+    end_time_offset {
+      seconds: 5
+      nanos: 720000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 5
+      nanos: 760000000
+    }
+    end_time_offset {
+      seconds: 7
+      nanos: 760000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 7
+      nanos: 800000000
+    }
+    end_time_offset {
+      seconds: 11
+      nanos: 40000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 11
+      nanos: 80000000
+    }
+    end_time_offset {
+      seconds: 12
+      nanos: 480000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 12
+      nanos: 520000000
+    }
+    end_time_offset {
+      seconds: 14
+      nanos: 360000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 14
+      nanos: 400000000
+    }
+    end_time_offset {
+      seconds: 16
+      nanos: 160000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 16
+      nanos: 200000000
+    }
+    end_time_offset {
+      seconds: 18
+      nanos: 440000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 18
+      nanos: 480000000
+    }
+    end_time_offset {
+      seconds: 20
+      nanos: 280000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 20
+      nanos: 320000000
+    }
+    end_time_offset {
+      seconds: 22
+      nanos: 240000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 22
+      nanos: 280000000
+    }
+    end_time_offset {
+      seconds: 24
+      nanos: 160000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 24
+      nanos: 200000000
+    }
+    end_time_offset {
+      seconds: 26
+      nanos: 200000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 26
+      nanos: 240000000
+    }
+    end_time_offset {
+      seconds: 27
+      nanos: 480000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 27
+      nanos: 520000000
+    }
+    end_time_offset {
+      seconds: 29
+      nanos: 600000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 29
+      nanos: 640000000
+    }
+    end_time_offset {
+      seconds: 32
+      nanos: 200000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 32
+      nanos: 240000000
+    }
+    end_time_offset {
+      seconds: 34
+      nanos: 40000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 34
+      nanos: 80000000
+    }
+    end_time_offset {
+      seconds: 36
+      nanos: 360000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 36
+      nanos: 400000000
+    }
+    end_time_offset {
+      seconds: 37
+      nanos: 840000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 37
+      nanos: 880000000
+    }
+    end_time_offset {
+      seconds: 39
+      nanos: 720000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 39
+      nanos: 760000000
+    }
+    end_time_offset {
+      seconds: 41
+      nanos: 640000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 41
+      nanos: 680000000
+    }
+    end_time_offset {
+      seconds: 42
+      nanos: 800000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 42
+      nanos: 840000000
+    }
+    end_time_offset {
+      seconds: 46
+      nanos: 400000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 46
+      nanos: 440000000
+    }
+    end_time_offset {
+      seconds: 53
+      nanos: 960000000
+    }
+  }
+  shot_annotations {
+    start_time_offset {
+      seconds: 54
+    }
+    end_time_offset {
+      seconds: 59
+      nanos: 960000000
+    }
+  }
+  segment {
+    start_time_offset {
+    }
+    end_time_offset {
+      seconds: 59
+      nanos: 960000000
+    }
+  }
+}

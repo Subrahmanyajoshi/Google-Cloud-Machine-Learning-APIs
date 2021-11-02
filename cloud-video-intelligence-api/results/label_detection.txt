@@ -1,0 +1,283 @@
+annotation_results {
+  segment_label_annotations {
+    entity {
+      entity_id: "/m/01280g"
+      description: "wildlife"
+      language_code: "en-US"
+    }
+    category_entities {
+      entity_id: "/m/0jbk"
+      description: "animal"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+        }
+        end_time_offset {
+          seconds: 15
+          nanos: 240000000
+        }
+      }
+      confidence: 0.4356715679168701
+    }
+  }
+  segment_label_annotations {
+    entity {
+      entity_id: "/m/0jbk"
+      description: "animal"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+        }
+        end_time_offset {
+          seconds: 15
+          nanos: 240000000
+        }
+      }
+      confidence: 0.8268589973449707
+    }
+  }
+  segment_label_annotations {
+    entity {
+      entity_id: "/m/05h0n"
+      description: "nature"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+        }
+        end_time_offset {
+          seconds: 15
+          nanos: 240000000
+        }
+      }
+      confidence: 0.7760365009307861
+    }
+  }
+  segment_label_annotations {
+    entity {
+      entity_id: "/m/0hcr"
+      description: "animation"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+        }
+        end_time_offset {
+          seconds: 15
+          nanos: 240000000
+        }
+      }
+      confidence: 0.3364885449409485
+    }
+  }
+  shot_label_annotations {
+    entity {
+      entity_id: "/m/0hcr"
+      description: "animation"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+        }
+        end_time_offset {
+          seconds: 8
+          nanos: 360000000
+        }
+      }
+      confidence: 0.45280689001083374
+    }
+  }
+  shot_label_annotations {
+    entity {
+      entity_id: "/m/0jbk"
+      description: "animal"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+        }
+        end_time_offset {
+          seconds: 8
+          nanos: 360000000
+        }
+      }
+      confidence: 0.8901985883712769
+    }
+    segments {
+      segment {
+        start_time_offset {
+          seconds: 12
+          nanos: 960000000
+        }
+        end_time_offset {
+          seconds: 15
+          nanos: 240000000
+        }
+      }
+      confidence: 0.7041099071502686
+    }
+  }
+  shot_label_annotations {
+    entity {
+      entity_id: "/m/01280g"
+      description: "wildlife"
+      language_code: "en-US"
+    }
+    category_entities {
+      entity_id: "/m/0jbk"
+      description: "animal"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+        }
+        end_time_offset {
+          seconds: 8
+          nanos: 360000000
+        }
+      }
+      confidence: 0.5613201856613159
+    }
+  }
+  shot_label_annotations {
+    entity {
+      entity_id: "/m/0cx37"
+      description: "hare"
+      language_code: "en-US"
+    }
+    category_entities {
+      entity_id: "/m/04rky"
+      description: "mammal"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+          seconds: 12
+          nanos: 960000000
+        }
+        end_time_offset {
+          seconds: 15
+          nanos: 240000000
+        }
+      }
+      confidence: 0.7509928941726685
+    }
+  }
+  shot_label_annotations {
+    entity {
+      entity_id: "/m/05h0n"
+      description: "nature"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+        }
+        end_time_offset {
+          seconds: 8
+          nanos: 360000000
+        }
+      }
+      confidence: 0.7760365009307861
+    }
+    segments {
+      segment {
+        start_time_offset {
+          seconds: 8
+          nanos: 400000000
+        }
+        end_time_offset {
+          seconds: 12
+          nanos: 920000000
+        }
+      }
+      confidence: 0.9109710454940796
+    }
+  }
+  shot_label_annotations {
+    entity {
+      entity_id: "/m/06mf6"
+      description: "rabbit"
+      language_code: "en-US"
+    }
+    category_entities {
+      entity_id: "/m/068hy"
+      description: "pet"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+          seconds: 12
+          nanos: 960000000
+        }
+        end_time_offset {
+          seconds: 15
+          nanos: 240000000
+        }
+      }
+      confidence: 0.9664413928985596
+    }
+  }
+  shot_label_annotations {
+    entity {
+      entity_id: "/m/01bqvp"
+      description: "sky"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+          seconds: 8
+          nanos: 400000000
+        }
+        end_time_offset {
+          seconds: 12
+          nanos: 920000000
+        }
+      }
+      confidence: 0.8546626567840576
+    }
+  }
+  shot_label_annotations {
+    entity {
+      entity_id: "/m/08t9c_"
+      description: "grass"
+      language_code: "en-US"
+    }
+    category_entities {
+      entity_id: "/m/05s2s"
+      description: "plant"
+      language_code: "en-US"
+    }
+    segments {
+      segment {
+        start_time_offset {
+        }
+        end_time_offset {
+          seconds: 8
+          nanos: 360000000
+        }
+      }
+      confidence: 0.537007749080658
+    }
+  }
+  segment {
+    start_time_offset {
+    }
+    end_time_offset {
+      seconds: 15
+      nanos: 240000000
+    }
+  }
+}

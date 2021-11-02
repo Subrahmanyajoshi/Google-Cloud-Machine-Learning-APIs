@@ -1,3 +1,5 @@
 google-cloud-vision==2.5.0
 google-cloud-language==2.3.0
 google-cloud-translate==3.6.0
+google-cloud-speech==2.11.0
+google-cloud-videointelligence==2.5.0
